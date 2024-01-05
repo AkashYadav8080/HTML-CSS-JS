@@ -9,3 +9,5 @@ Author: Akash Yadav
 03/01/2024 - Added changeable-css.html file for CSS use on browsers directly.
 
 04/01/2024 - Added numbers.html file for input type "text" use as numbers only.
+
+05/01/2024 - Added non-selected.html file for input type "text" use as non selected text.
