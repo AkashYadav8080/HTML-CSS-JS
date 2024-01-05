@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>How to make non-selected input field text in  HTML with the help of JavaScript.</h1>
+    <p>Here a text filed which value is given</p>
+    <input type="text" name="" id="non-selected" value="This is a text field">
+
+</body>
+
+<script>
+    var nonselect = document.getElementById("non-selected");
+    nonselect.addEventListener("selectstart",function(e){
+        e.preventDefault();
+    });
+
+    nonselect.addEventListener("mousedown",function(e){
+        e.preventDefault();
+    })
+</script>
+</html>
