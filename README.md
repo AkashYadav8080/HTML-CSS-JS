@@ -1,7 +1,7 @@
 # HTML-CSS-JS
 
 Hello guys !
-This repository makes for you that you can use the following syntax for HTML files in your projects.
+This repository makes for you that you can use the following Examples of HTML in your projects.
 
 Author: Akash Yadav
 
@@ -11,3 +11,5 @@ Author: Akash Yadav
 04/01/2024 - Added numbers.html file for input type "text" use as numbers only.
 
 05/01/2024 - Added non-selected.html file for input type "text" use as non selected text.
+
+06/01/2024 - Added a directory for image shadow and it's file.
