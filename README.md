@@ -14,4 +14,4 @@ Author: Akash Yadav
 
 06/01/2024 - Added a directory for image shadow and it's file.
 
-07/01/2024 - Added a HTML file for Button Iffects like hover.
+07/01/2024 - Added a HTML file for Button Effects like hover.
