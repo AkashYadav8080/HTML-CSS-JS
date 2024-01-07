@@ -13,3 +13,5 @@ Author: Akash Yadav
 05/01/2024 - Added non-selected.html file for input type "text" use as non selected text.
 
 06/01/2024 - Added a directory for image shadow and it's file.
+
+07/01/2024 - Added a HTML file for Button Iffects like hover.
