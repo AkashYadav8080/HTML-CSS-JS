@@ -1,4 +1,4 @@
-# HTML-CSS-JS
+# HTML-CSS-JS Project
 
 Hello guys !
 This repository makes for you that you can use the following Examples of HTML in your projects.
